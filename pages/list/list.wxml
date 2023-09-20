@@ -1,0 +1,14 @@
+<!--pages/list/list.wxml-->
+<!--index.wxml-->
+<view class="text_main">
+    <view class="text_body">Welcome</view>
+    <view class="text_body2">Please select a test</view>
+    <view class="text_body3">
+    
+    </view>
+</view>
+<view class="gotoButtons">
+    <button id="1"  bindtap='goToIntro'>SAS</button>
+    <button id="2"  bindtap='goToIntro'>SDS</button>
+    <button id="3"  bindtap='goToIntro'>MBTI</button>
+</view>
